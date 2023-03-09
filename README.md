@@ -1,2 +1,2 @@
 # chatGPT-copy
- Copia do chatGPT
+ made to practice javascript
