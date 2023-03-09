@@ -6,13 +6,13 @@
   ChatGPT Clone • 🤖
 </h2>
 
-Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI
+A fullstack clone of chatgpt using an integration with the OpenAI algorithm
 
 <!-- <p align="center">
 <img src="" title="ChatGPT">
 </p> -->
 
-# O que foi usado nos projetos
+# What was used in the projects
 
 ### Backend
   - Node
@@ -25,7 +25,7 @@ Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do Ope
   - Javascript
 
 
-### Como eu faço para executar o serviço do backend?
+### How do I run the backend service?
 
 ```sh
 $ cd server
@@ -33,9 +33,9 @@ $ npm install
 $ npm start
 ```
 
-Feito isso o serviço de backend estará funcionando na porta :5000. 
+Once this is done, the backend service will be running on the port:5000. 
 
-### Como eu faço para executar o serviço do frontend?
+### How do I run the frontend service?
 
 ```sh
 $ cd web
